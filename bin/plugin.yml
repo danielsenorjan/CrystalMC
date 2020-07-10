@@ -1,0 +1,30 @@
+main: com.crystalmc.plugin.Main
+name: CrystalMC
+version: beta-1.1
+author: Lapskaus
+description: Official Crystal MC plugin
+api-version: 1.15
+commands:
+    rules:
+      description: Lists the server rules.
+      usage: /rules
+      permission-message: You don't have access to this command.
+    website:
+      description: Shows the website URL.
+      usage: /website
+      permission-message: You don't have access to this command.
+    k:
+      description: Kick a user.
+      usage: /k
+      permission: crystalmc.moderator
+      permission-message: You don't have access to this command.
+    b:
+      description: Ban a user.
+      usage: /b
+      permission: crystalmc.admin
+      permission-message: You don't have access to this command.
+    ub:
+      description: Unban a user.
+      usage: /ub
+      permission: crystalmc.admin
+      permission-message: You don't have access to this command.

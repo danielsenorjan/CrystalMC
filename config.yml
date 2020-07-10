@@ -1,0 +1,19 @@
+# CrystalMC Plugin Config
+
+#PLUGIN PREFIX WITH COLOR CODES
+prefix: "&5[&dCrystalMC&5]"
+
+#RULES
+rules:
+  - Treat others with respect.
+  - Offensive content is not allowed.
+  - Keep chat family friendly.
+  - Advertising is not allowed.
+  - Allow moderators to do their jobs.
+  - Spamming is not allowed.
+  - Cheating is not tolerated.
+  - Griefing is not allowed.
+  - Do not scam other players, or try to.
+  
+#WEBSITE URL (COLOR CODES ACCEPTED)
+websiteUrl: "&d&nhttps://crystalmc.com"

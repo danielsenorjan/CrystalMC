@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<project name="CrystalMC" default="makejar" basedir=".">
+    <target name="makejar" description="Create a jar for the project">
+        <mkdir dir="target"></mkdir>
+        <jar destfile="D:/Users/Ørjan Danielsen/Desktop/minecraft/testserver/plugins/${ant.project.name}.jar">
+            <fileset dir="bin"></fileset>
+            <fileset file="plugin.yml"></fileset>
+        </jar>
+    </target>
+</project>
