@@ -1,2 +1,2 @@
 # CrystalMC
-Plugin for CrystalMC Minecraft Server
+Plugin for CrystalMC Minecraft Server, in development.
